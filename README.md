@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- GitHub统计 -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+
+<!-- 常用语言 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+
+<!-- GitHub连续提交 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=dark)
